@@ -7,8 +7,7 @@ To run the project :
 
 2- import the project in intellij
 
-3- in Terminal tab, run the below command
-validate.bat
+3- in Terminal tab, run validate.bat
 
 4- It will do these steps sequentially at once : 
     - call mvn clean package
